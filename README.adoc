@@ -1,7 +1,8 @@
-= How to contribute your tool to the ASAM e.V. Open Source Plattform
+= How to contribute your tool to the ASAM e.V. Open Source Platform
 
 As an open-source standardization project, we welcome and encourage the community to provide tooling to the community to aid the development of the OpenX standards.
 The toolings here are supposed to help get on track with OpenX standards. 
+
 **The tools provided in the https://github.com/asam-oss[ASAM e.V. Open Souce Platform] are explicitly not normative.**
 
 
