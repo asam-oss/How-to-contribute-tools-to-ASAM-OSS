@@ -9,13 +9,10 @@ This document explains how to have a tool hosted in the ASAM Open Source Platfor
 
 **For Questions regarding contribution please contact info@asam.net**
 
-include::DISCLAIMER.md[leveloffset=+1]
+IMPORTANT: Note that with contribution to the ASAM e.V. Open Souce Platform you agree to the https://github.com/asam-oss/How-to-contribute-tools-to-ASAM-OSS/blob/master/DISCLAIMER.md[Disclaimer (link to file)].
 
-[IMPORTANT]
-====
-- Note that with contribution to the ASAM e.V. Open Souce Platform you agree to the <<Disclaimer>>.
-- All IP remains that of the original contributors, and is subject to the original license terms described in the LICENSE file.
-====
+NOTE: All IP remains that of the original contributors, and is subject to the original license terms described in the LICENSE file.
+
 
 == Required repository setup 
 
